@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+*.token
+.cache/
+.venv/
+venv/
+bert_ner_model/
+balochi_gpt_model/
+results/
+logs/
+checkpoint-*/
